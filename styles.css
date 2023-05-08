@@ -1,6 +1,11 @@
 /*  your css code here. If applicable */
-span{
+.after::after{
 	font-weight:50px;
 	color:red;
 	font-size:18px;
+}
+.before::before{
+	color:red;
+	font-size:18px;
+	font-weight:50px;
 }
