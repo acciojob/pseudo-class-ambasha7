@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.after::after{
+::after{
 	font-weight:50px;
 	color:red;
 	font-size:18px;
 }
-.before::before{
+::before{
 	color:red;
 	font-size:18px;
 	font-weight:50px;
