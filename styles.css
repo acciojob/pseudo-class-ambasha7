@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+span{
+	font-weight:50px;
+	color:red;
+	font-size:18px;
+}
